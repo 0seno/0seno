@@ -18,6 +18,8 @@ seno@debian:~$ neofetch
 					
 
 <pre>
+
+<pre>
  ~> <strong>ls links</strong>
  Fediverse:      <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
  Blog:           <a href="https://home.hedy.dev/">home.hedy.dev</a>

@@ -1,12 +1,8 @@
 <pre>
-seno@debian:~$ neofetch
-           _    .    .        *      	  	*`
-         /\   *     .    *       .   
-			
-<pre>
+
+<strong>seno@debian: </strong>
+
+
+                    ~> <strong>Distro Debian</strong>
 
 <pre>
- ~> <strong>seno@debian: </strong>
-
-
- ~> <strong>finger hedy</strong>

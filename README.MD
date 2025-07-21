@@ -7,4 +7,3 @@
                     ———————————
                     <strong>Distro </strong>Debian
 
-<pre>

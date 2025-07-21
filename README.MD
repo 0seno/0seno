@@ -19,10 +19,8 @@ seno@debian:~$ neofetch
 <pre>
 
 <pre>
- ~> <strong>ls links</strong>
- Fediverse:      <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
- Blog:           <a href="https://home.hedy.dev/">home.hedy.dev</a>
- Gemini capsule: <a href="gemini://gmi.hedy.dev/">gemini://gmi.hedy.dev</a>
+ ~> <strong>seno@debian: </strong>
+
 
  ~> <strong>finger hedy</strong>
  Login: hedy                             Name: hedy

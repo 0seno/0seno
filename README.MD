@@ -14,8 +14,7 @@ seno@debian:~$ neofetch
       .  *   *   *   .  *   *    .   
 	*				
 		*                    
-		.		.	
-					
+		.		.				
 
 <pre>
 

@@ -2,7 +2,7 @@
 
 <strong>seno@debian:~$ </strong> neofetch
 
-<pre>
+</pre>
                     seno@debian
                     ———————————
                     <strong>Distro </strong>Debian

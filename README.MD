@@ -1,6 +1,6 @@
 <pre>
 
-<strong>seno@debian:~$ neofetch</strong>
+<strong>seno@debian:~$ </strong> neofetch
 
 
                     ~> <strong>Distro Debian</strong>

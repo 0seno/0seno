@@ -5,5 +5,5 @@
 </pre>
                     seno@debian
                     ———————————
-                    <strong>Distro </strong>Debian
+                    <strong> Distro </strong> Debian
 
